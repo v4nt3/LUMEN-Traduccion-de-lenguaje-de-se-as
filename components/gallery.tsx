@@ -33,7 +33,7 @@ export default function Gallery() {
     {
       src: "/familia-comunic-ndose-con-lenguaje-de-se-as-en-cas.jpg",
       alt: "Familia comunicándose con lenguaje de señas en casa",
-      caption: "Comunicación natural en clases cirtuales",
+      caption: "Comunicación natural en clases virtuales",
       category: "Estudio",
     },
   ]

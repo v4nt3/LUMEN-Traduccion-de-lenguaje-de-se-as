@@ -5,7 +5,7 @@ export default function Features() {
     {
       icon: Mic,
       title: "Traducción en tiempo real",
-      description: "Convierte señas a voz instantáneamente con precisión avanzada usando IA de última generación",
+      description: "Convierte señas a voz instantáneamente con precisión avanzada usando inteligencia artificial",
       color: "from-[#47B8A1] to-[#4B79BD]",
     },
     {
@@ -16,8 +16,8 @@ export default function Features() {
     },
     {
       icon: Settings,
-      title: "Interfaz accesible y personalizable",
-      description: "Diseñado específicamente para usuarios sordos con controles de accesibilidad completos",
+      title: "Interfaz accesible e intuitiva",
+      description: "Diseñado intuitivo y facil de usar, sin muchos pasos de por medio",
       color: "from-[#253361] to-[#47B8A1]",
     },
   ]

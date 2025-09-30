@@ -6,7 +6,7 @@ export default function Download() {
   const handleDownload = () => {
     // Create download link
     const link = document.createElement("a")
-    link.href = "/download/LUMEN_installer.exe"
+    link.href = "https://github.com/v4nt3/LUMEN-Traduccion-de-lenguaje-de-se-as/releases/download/version_inicial/lumen_installer.exe"
     link.download = "lumen_installer.exe"
     link.click()
 
@@ -66,7 +66,7 @@ export default function Download() {
             </div>
             <div className="flex items-center gap-3 text-white">
               <DownloadIcon className="w-6 h-6 text-[#47B8A1]" aria-hidden="true" />
-              <span>~61 MB</span>
+              <span>~606 MB</span>
             </div>
             <div className="flex items-center gap-3 text-white">
               <CheckCircle className="w-6 h-6 text-[#47B8A1]" aria-hidden="true" />

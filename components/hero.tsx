@@ -6,7 +6,7 @@ export default function Hero() {
   const handleDownload = () => {
     // Create download link
     const link = document.createElement("a")
-    link.href = "/download/LUMEN_installer.exe"
+    link.href = "https://github.com/v4nt3/LUMEN-Traduccion-de-lenguaje-de-se-as/releases/download/version_inicial/lumen_installer.exe"
     link.download = "lumen_installer.exe"
     link.click()
 
