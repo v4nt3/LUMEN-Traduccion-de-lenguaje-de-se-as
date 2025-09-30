@@ -82,7 +82,7 @@ export default function Gallery() {
           <div className="bg-gradient-to-r from-[#253361] to-[#4B79BD] rounded-2xl p-8 text-white">
             <h3 className="text-2xl font-bold mb-4">¿Listo para comenzar?</h3>
             <p className="text-white/90 mb-6 max-w-2xl mx-auto">
-              Únete a miles de usuarios que ya están mejorando su comunicación con LUMEN en Windows
+              Únete y mejora tu comunicación con LUMEN
             </p>
             <a
               href="#descargar"
